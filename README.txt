@@ -33,6 +33,7 @@ http://www.mfjenterprises.com/Product.php?productid=MFJ-564B
 
 * 1 x Piezo buzzer, e.g.
 http://www.reichelt.de/SUMMER-EPM-121/3/index.html?&ARTICLE=35927
+http://www.ekulit.com/piezo-buzzer-without-controller/rmp-14pht/
 
 * some Jumper Wirers M/M
 http://www.watterott.com/de/Jumper-Wires-MM-200mm
